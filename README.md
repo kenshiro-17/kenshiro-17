@@ -1,23 +1,132 @@
-# Hey, I'm Rahul
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenshiro-17/kenshiro-17/main/assets/banner.png">
+  <img alt="Banner" src="https://raw.githubusercontent.com/kenshiro-17/kenshiro-17/main/assets/banner.png" width="100%">
+</picture>
 
-I'm a developer who likes building things that solve real problems. Currently exploring AI/ML and desktop app development.
+<br/>
 
-## What I'm working on
+<div align="center">
 
-**[Aether-AI](https://github.com/kenshiro-17/Aether-AI)** - A local-first AI assistant that runs entirely on your own hardware. Built with Python/FastAPI backend, React/Electron frontend, and llama.cpp for inference. Privacy-focused, no cloud dependencies.
+# やあ、I'm Rahul ☕
 
-**[Sentiment Dashboard](https://github.com/kenshiro-17/sentiment-dashboard)** - Real-time social media sentiment analysis using DistilBERT + VADER with a Streamlit dashboard. Async data pipeline, word clouds, trend detection.
+**`CS Student & Developer`** · Building AI tools that run on your own hardware
 
-**[JobTracker](https://github.com/kenshiro-17/JobTrackerWinUI)** - Windows app to track job applications with automatic Gmail sync. WinUI 3 + .NET 8, syncs with Gmail API to detect application emails.
+*Currently mass applying to jobs at [Aether's job finding feature](https://github.com/kenshiro-17/Aether-AI)*
 
-## Tech I use
+<br/>
 
-- **Languages:** Python, TypeScript, C#
-- **Frontend:** React, Electron, WinUI 3, Tailwind, Streamlit
-- **Backend:** FastAPI, Node.js
-- **AI/ML:** Transformers, llama.cpp, Qdrant, NLTK
-- **Other:** Docker, Git, SQLite
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulraj013/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrajp.germany@gmail.com)
 
-## Get in touch
+</div>
 
-Always open to interesting projects and collaborations.
+---
+
+<br/>
+
+> *"I like building things that solve problems I actually have."*
+
+<br/>
+
+## ☕ About
+
+I'm into AI/ML and desktop apps. Most of my projects come from wanting something that didn't exist—like an AI assistant that doesn't send my data to the cloud, or an app that tracks job applications without the hassle.
+
+Currently exploring: **local LLMs**, **NLP**, and **making Windows apps that don't look like they're from 2005**.
+
+<br/>
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Backend & AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📦 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [Aether-AI](https://github.com/kenshiro-17/Aether-AI)
+Local-first AI assistant. Runs on your hardware, keeps your data private. Python/FastAPI + React/Electron + llama.cpp.
+
+`#ai` `#privacy` `#local-llm`
+
+</td>
+<td width="50%">
+
+### [Sentiment Dashboard](https://github.com/kenshiro-17/sentiment-dashboard)
+Real-time sentiment analysis with DistilBERT + VADER. Streamlit dashboard with trend detection and word clouds.
+
+`#nlp` `#ml` `#streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [JobTracker](https://github.com/kenshiro-17/JobTrackerWinUI)
+Windows app for tracking job applications. Auto-syncs with Gmail to detect applications, interviews, rejections.
+
+`#winui` `#csharp` `#gmail-api`
+
+</td>
+<td width="50%">
+
+### More coming soon...
+Always building something. Check back later or follow for updates.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kenshiro-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a0dc&icon_color=c9a0dc&text_color=9f9f9f" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshiro-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a0dc&text_color=9f9f9f" alt="Top Languages" height="165"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by* ☕
+
+![Visitors](https://komarev.com/ghpvc/?username=kenshiro-17&color=c9a0dc&style=flat-square&label=visitors)
+
+</div>
