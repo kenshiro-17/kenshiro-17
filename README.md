@@ -114,8 +114,10 @@ Always building something. Check back later or follow for updates.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kenshiro-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a0dc&icon_color=c9a0dc&text_color=9f9f9f" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshiro-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a0dc&text_color=9f9f9f" alt="Top Languages" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenshiro-17&theme=tokyonight" alt="Profile Details" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenshiro-17&theme=tokyonight" alt="Repos per Language" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kenshiro-17&theme=tokyonight" alt="Stats" height="165"/>
 
 </div>
 
