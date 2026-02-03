@@ -15,6 +15,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-kenshiro.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulraj013/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrajp.germany@gmail.com)
 
@@ -101,8 +102,10 @@ Windows app for tracking job applications. Auto-syncs with Gmail to detect appli
 </td>
 <td width="50%">
 
-### More coming soon...
-Always building something. Check back later or follow for updates.
+### [Portfolio](https://github.com/kenshiro-17/rahul-portfolio)
+Ghibli-style portfolio website with 3D mascot. Next.js + React Three Fiber + Framer Motion.
+
+`#nextjs` `#threejs` `#portfolio`
 
 </td>
 </tr>
