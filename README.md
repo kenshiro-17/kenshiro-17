@@ -33,7 +33,7 @@
 
 I'm into AI/ML and desktop apps. Most of my projects come from wanting something that didn't exist—like an AI assistant that doesn't send my data to the cloud, or an app that tracks job applications without the hassle.
 
-Currently exploring: **local LLMs**, **NLP**, and **making Windows apps that don't look like they're from 2005**.
+Currently exploring: **local LLMs**, **RAG pipelines**, and **production AI APIs**.
 
 <br/>
 
@@ -57,6 +57,8 @@ Currently exploring: **local LLMs**, **NLP**, and **making Windows apps that don
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=bookstack&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 
 **Frontend & Desktop**
 
@@ -71,6 +73,9 @@ Currently exploring: **local LLMs**, **NLP**, and **making Windows apps that don
 **Backend & Cloud**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2D7FF9?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -80,6 +85,7 @@ Currently exploring: **local LLMs**, **NLP**, and **making Windows apps that don
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -122,6 +128,24 @@ Windows app for tracking job applications. Auto-syncs with Gmail to detect appli
 Ghibli-style portfolio website with 3D mascot. Next.js + React Three Fiber + Framer Motion.
 
 `#nextjs` `#threejs` `#portfolio`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [AI Matchmaking](https://github.com/kenshiro-17/AI-Matchmaking)
+Quality-first event networking platform with explainable match scoring, organizer console, feedback loop, and security hardening.
+
+`#fastapi` `#matchmaking` `#product`
+
+</td>
+<td width="50%">
+
+### [Discord Music Bot](https://github.com/kenshiro-17/Discord-Music-Bot)
+Production-grade bot with robust YouTube playback, queue controls, failover handling, and containerized deployment.
+
+`#nodejs` `#discordjs` `#docker`
 
 </td>
 </tr>
