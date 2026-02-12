@@ -149,6 +149,24 @@ Production-grade bot with robust YouTube playback, queue controls, failover hand
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [Multi-tenant RAG Platform](https://github.com/kenshiro-17/Multi-tenant-RAG-Platform)
+Production-grade hybrid RAG SaaS with multi-tenancy, async PDF ingestion, pgvector + keyword search, MMR reranking, SSE chat, and evaluation harness.
+
+`#rag` `#fastapi` `#nextjs`
+
+</td>
+<td width="50%">
+
+### [More Coming Soon](https://github.com/kenshiro-17?tab=repositories)
+Actively shipping new AI products and production-ready systems.
+
+`#ai` `#fullstack` `#engineering`
+
+</td>
+</tr>
 </table>
 
 <br/>
