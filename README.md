@@ -160,10 +160,10 @@ Production-grade hybrid RAG SaaS with multi-tenancy, async PDF ingestion, pgvect
 </td>
 <td width="50%">
 
-### [More Coming Soon](https://github.com/kenshiro-17?tab=repositories)
-Actively shipping new AI products and production-ready systems.
+### [Railway Incident Classification Assistant](https://github.com/kenshiro-17/Railway-Incident-Classification-Assistant)
+Production-focused railway incident triage assistant with prompt-injection defense, strict safety escalation, rate limiting, red-team checks, and Kubernetes scaling path.
 
-`#ai` `#fullstack` `#engineering`
+`#llm` `#safety` `#kubernetes`
 
 </td>
 </tr>
